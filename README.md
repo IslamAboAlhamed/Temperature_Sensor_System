@@ -1,5 +1,11 @@
 # 🌡️ TEMP MONITOR
 ### Temperature Sensor System
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C%23-purple?style=for-the-badge&logo=csharp" />
+  <img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows" />
+  <img src="https://img.shields.io/badge/Framework-.NET%204.8-512BD4?style=for-the-badge&logo=dotnet" />
+  <img src="https://img.shields.io/badge/Project-Console%20Application-black?style=for-the-badge" />
+</p>
 
 ### 🔵 LOW TEMPERATURE
 <p align="center">
@@ -19,12 +25,7 @@
 
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-C%23-purple?style=for-the-badge&logo=csharp" />
-  <img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Framework-.NET%204.8-512BD4?style=for-the-badge&logo=dotnet" />
-  <img src="https://img.shields.io/badge/Project-Console%20Application-black?style=for-the-badge" />
-</p>
+
 
 ---
 
