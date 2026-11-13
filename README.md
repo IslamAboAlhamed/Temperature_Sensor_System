@@ -1,6 +1,21 @@
 # 🌡️ TEMP MONITOR
 ### Temperature Sensor System
 
+### 🔵 LOW TEMPERATURE
+<p align="center">
+  <img src="screenshots/temperature-low.png" width="750">
+</p>
+
+### 🟢 NORMAL TEMPERATURE
+<p align="center">
+  <img src="screenshots/temperature-normal.png" width="750">
+</p>
+
+### 🔴 CRITICAL TEMPERATURE
+<p align="center">
+  <img src="screenshots/temperature-critical.png" width="750">
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C%23-purple?style=for-the-badge&logo=csharp" />
   <img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows" />
