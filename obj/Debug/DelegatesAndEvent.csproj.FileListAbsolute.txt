@@ -1,0 +1,8 @@
+C:\Users\New World\source\repos\DelegatesAndEvent\bin\Debug\DelegatesAndEvent.exe.config
+C:\Users\New World\source\repos\DelegatesAndEvent\bin\Debug\DelegatesAndEvent.exe
+C:\Users\New World\source\repos\DelegatesAndEvent\bin\Debug\DelegatesAndEvent.pdb
+C:\Users\New World\source\repos\DelegatesAndEvent\obj\Debug\DelegatesAndEvent.csproj.AssemblyReference.cache
+C:\Users\New World\source\repos\DelegatesAndEvent\obj\Debug\DelegatesAndEvent.csproj.CoreCompileInputs.cache
+C:\Users\New World\source\repos\DelegatesAndEvent\obj\Debug\DelegatesAndEvent.exe
+C:\Users\New World\source\repos\DelegatesAndEvent\obj\Debug\DelegatesAndEvent.pdb
+C:\Users\New World\source\repos\DelegatesAndEvent\obj\Debug\DelegatesAndEvent.exe.config

@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\New World\\source\\repos\\DelegatesAndEvent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48E0BD96-2FDD-4D50-AD73-0CB212CADC50}|DelegatesAndEvent.csproj|c:\\users\\new world\\source\\repos\\delegatesandevent\\alarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E0BD96-2FDD-4D50-AD73-0CB212CADC50}|DelegatesAndEvent.csproj|solutionrelative:alarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E0BD96-2FDD-4D50-AD73-0CB212CADC50}|DelegatesAndEvent.csproj|c:\\users\\new world\\source\\repos\\delegatesandevent\\display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E0BD96-2FDD-4D50-AD73-0CB212CADC50}|DelegatesAndEvent.csproj|solutionrelative:display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E0BD96-2FDD-4D50-AD73-0CB212CADC50}|DelegatesAndEvent.csproj|c:\\users\\new world\\source\\repos\\delegatesandevent\\tempargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E0BD96-2FDD-4D50-AD73-0CB212CADC50}|DelegatesAndEvent.csproj|solutionrelative:tempargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E0BD96-2FDD-4D50-AD73-0CB212CADC50}|DelegatesAndEvent.csproj|c:\\users\\new world\\source\\repos\\delegatesandevent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E0BD96-2FDD-4D50-AD73-0CB212CADC50}|DelegatesAndEvent.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E0BD96-2FDD-4D50-AD73-0CB212CADC50}|DelegatesAndEvent.csproj|c:\\users\\new world\\source\\repos\\delegatesandevent\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E0BD96-2FDD-4D50-AD73-0CB212CADC50}|DelegatesAndEvent.csproj|solutionrelative:sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Display.cs",
+              "DocumentMoniker": "C:\\Users\\New World\\source\\repos\\DelegatesAndEvent\\Display.cs",
+              "RelativeDocumentMoniker": "Display.cs",
+              "ToolTip": "C:\\Users\\New World\\source\\repos\\DelegatesAndEvent\\Display.cs",
+              "RelativeToolTip": "Display.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T17:07:34.126Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TempArgs.cs",
+              "DocumentMoniker": "C:\\Users\\New World\\source\\repos\\DelegatesAndEvent\\TempArgs.cs",
+              "RelativeDocumentMoniker": "TempArgs.cs",
+              "ToolTip": "C:\\Users\\New World\\source\\repos\\DelegatesAndEvent\\TempArgs.cs",
+              "RelativeToolTip": "TempArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T16:22:35.946Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "alarm.cs",
+              "DocumentMoniker": "C:\\Users\\New World\\source\\repos\\DelegatesAndEvent\\alarm.cs",
+              "RelativeDocumentMoniker": "alarm.cs",
+              "ToolTip": "C:\\Users\\New World\\source\\repos\\DelegatesAndEvent\\alarm.cs",
+              "RelativeToolTip": "alarm.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T17:14:02.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sensor.cs",
+              "DocumentMoniker": "C:\\Users\\New World\\source\\repos\\DelegatesAndEvent\\Sensor.cs",
+              "RelativeDocumentMoniker": "Sensor.cs",
+              "ToolTip": "C:\\Users\\New World\\source\\repos\\DelegatesAndEvent\\Sensor.cs",
+              "RelativeToolTip": "Sensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T16:18:54.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\New World\\source\\repos\\DelegatesAndEvent\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\New World\\source\\repos\\DelegatesAndEvent\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAUwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T19:33:17.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
