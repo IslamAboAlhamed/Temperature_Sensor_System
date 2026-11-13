@@ -3,17 +3,20 @@
 
 ### 🔵 LOW TEMPERATURE
 <p align="center">
-  <img src="screenshots/temperature-low.png" width="750">
+  <img width="759" height="793" alt="image" src="https://github.com/user-attachments/assets/0abe2990-525e-4b8e-8ed3-4c1b13b00e75" />
+
 </p>
 
 ### 🟢 NORMAL TEMPERATURE
 <p align="center">
-  <img src="screenshots/temperature-normal.png" width="750">
+<img width="764" height="792" alt="image" src="https://github.com/user-attachments/assets/a12f0ba8-20af-4650-862d-d7896c30ac6e" />
+
 </p>
 
 ### 🔴 CRITICAL TEMPERATURE
 <p align="center">
-  <img src="screenshots/temperature-critical.png" width="750">
+  <img width="758" height="796" alt="image" src="https://github.com/user-attachments/assets/97b5b8c5-7863-4827-9f8c-3bbfae19c1a0" />
+
 </p>
 
 <p align="center">
