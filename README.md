@@ -9,19 +9,25 @@
 
 ### 🔵 LOW TEMPERATURE
 <p align="center">
-  <img width="759" height="793" alt="image" src="https://github.com/user-attachments/assets/0abe2990-525e-4b8e-8ed3-4c1b13b00e75" />
+
+<img width="1575" height="778" alt="image" src="https://github.com/user-attachments/assets/c1ead92a-4c9f-4499-96e6-1a0ddfb7e1ff" />
+
 
 </p>
 
 ### 🟢 NORMAL TEMPERATURE
 <p align="center">
-<img width="764" height="792" alt="image" src="https://github.com/user-attachments/assets/a12f0ba8-20af-4650-862d-d7896c30ac6e" />
+
+<img width="1580" height="780" alt="image" src="https://github.com/user-attachments/assets/f0824765-ac5d-4642-9869-4b0dea0acf5b" />
+
 
 </p>
 
 ### 🔴 CRITICAL TEMPERATURE
 <p align="center">
-  <img width="758" height="796" alt="image" src="https://github.com/user-attachments/assets/97b5b8c5-7863-4827-9f8c-3bbfae19c1a0" />
+
+<img width="1577" height="778" alt="image" src="https://github.com/user-attachments/assets/256da031-41df-421e-842f-3a76be91dbef" />
+
 
 </p>
 
@@ -29,95 +35,119 @@
 
 ---
 
-## 🚀 About The Project
+## 📌 About The Project
 
-**TEMP MONITOR** is a C# Console Application designed to monitor temperature values and detect temperature changes using **Delegates and Events**.
+**Temperature Sensor System** is a desktop application developed using C# and Windows Forms to demonstrate the concept of **Event-Driven Programming**.
 
-The system displays temperature readings, detects abnormal conditions, and triggers alerts when temperature limits are exceeded.
-
-Built as a practical project to explore event-driven programming in C#.
+The application simulates a temperature monitoring system where users can set, increase, and decrease temperature values while automatically tracking every temperature change through custom Events and Event Handlers.
 
 ## ✨ Features
 
-- 🌡️ Temperature Monitoring
-- 🔔 High & Low Temperature Alerts
-- ⚡ Delegates and Events
-- 🎨 Colored Console Interface
-- 🚨 Critical Temperature Detection
-- 🎮 ASCII Art Exit Animation
-- 🖥️ Interactive Console Experience
+- 🌡️ Display current temperature.
+- 📊 Visual temperature gauge.
+- ➕ Increase temperature.
+- ➖ Decrease temperature.
+- 🎯 Set custom temperature values.
+- 📝 Track temperature changes in a history log.
+- 🔔 Automatic Event Notification.
+- 📉 Calculate the difference between old and new temperatures.
 
-## 🛠️ Built With
+## 🛠️ Technologies & Concepts
 
-| Technology | Usage |
-|---|---|
-| C# | Programming Language |
-| .NET Framework 4.8 | Application Framework |
-| Delegates | Method References |
-| Events | Event-Driven Programming |
-| Console UI | User Interface |
+| Technology                | Usage                            |
+| ------------------------- | -------------------------------- |
+| C#                        | Main Programming Language        |
+| Windows Forms             | Graphical User Interface         |
+| Delegates                 | Event Handling Mechanism         |
+| Events                    | Temperature Change Notifications |
+| EventHandler\<TEventArgs> | Custom Event Communication       |
+| Custom EventArgs          | Passing Temperature Information  |
 
-## 📂 Project Structure
+## 🧠 How It Works
+
+The application follows an Event-Driven Architecture:
+
+1. The user changes the temperature.
+2. The `Thermostat` class updates the temperature.
+3. The `ThermostatChanged` event is triggered.
+4. The Event Handler receives the temperature change information.
+5. The UI updates the displayed temperature.
+6. The change is recorded in the history log.
+
+## 🏗️ Project Architecture
 
 ```text
-Temperature_Sensor_System/
+Temperature Sensor System
 │
-├── Program.cs       # Main Application
-├── Sensor.cs        # Temperature Sensor
-├── Display.cs       # Temperature Display
-├── alarm.cs         # Alarm Handler
-├── TempArgs.cs      # Temperature Event Arguments
+├── Thermostat
+│   ├── CurrentTemperature
+│   ├── SetTemperature()
+│   └── ThermostatChanged Event
 │
-├── App.config
-└── DelegatesAndEvent.csproj
+├── TemperatureChangedEventArgs
+│   ├── OldTemperature
+│   ├── NewTemperature
+│   └── Difference
+│
+└── Form1
+    ├── Event Subscription
+    ├── Event Handler
+    ├── Temperature Display
+    └── History Log
 ```
 
-## ⚙️ How To Run
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Visual Studio
+- C#
+- Windows Forms
+- Compatible .NET Framework
+
+### Installation
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/IslamAboAlhamed/Temperature_Sensor_System.git
+git clone https://github.com/IslamAboAlhamed/Temperature_Sensor_System_WindosForm.git
 ```
 
-2. Open the solution in Visual Studio.
+2. Open the solution file in Visual Studio.
 
 3. Build the project.
 
 4. Run the application.
 
-## 🧠 Concepts Learned
+## 🎯 Learning Objectives
 
-- Understanding Delegates in C#
-- Working with Events
-- Event Subscription and Invocation
-- Object-Oriented Programming
-- Conditional Logic
-- Console UI Design
+This project was created to practice and understand:
 
-## 📸 Preview
+- Delegates in C#.
+- Custom Events.
+- Event Subscription.
+- Event Handling.
+- Custom Event Arguments.
+- Separation of UI and Business Logic.
 
-<!-- Add your screenshots here -->
+## 🔮 Future Improvements
 
-<!-- Example:
-![Main Menu](screenshots/main-menu.png)
-![Temperature Status](screenshots/temperature-status.png)
--->
+- Connect a real temperature sensor.
+- Add temperature alerts.
+- Save temperature history to a database.
+- Display temperature statistics.
+- Add temperature charts.
 
-## 👨‍💻 Developer
+## 👨‍💻 Author
 
 **Islam Abo Alhamed**
-
-C# Developer | .NET Learner
 
 GitHub: [@IslamAboAlhamed](https://github.com/IslamAboAlhamed)
 
 ---
 
-<p align="center">
-  ⭐ If you like this project, consider giving it a star!
-</p>
+\<p align="center">
+&#x20; ⭐ If you find this project useful, consider giving it a star!
+\</p>
 
-<p align="center">
-  Made with ❤️ and C#
-</p>
